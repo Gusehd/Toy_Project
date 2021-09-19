@@ -1,6 +1,8 @@
 # Toy_Project
 Toy Projects - Python
 
+---
+
 ### Starcraft_Build_and_Timer - Pyqt5 / openpyxl
 * 스타크래프트 빌드 순서 입력 후 저장
 * 창모드 게임시 옆에 프로그램 띄우고 빌드 순서 보면서 플레이 가능 
@@ -8,4 +10,12 @@ Toy Projects - Python
 * 이후 자신의 타이머 로그와 다른 플레이어의 타이머 로그 비교 가능
 * 만들기 전에는 괜찮았는데 만들고 나서 써보니 이거 쓸바에 리플레이 다시 볼듯..
 
-### Steam_Game_
+---
+
+### Steam_Trending_Game_Recommendation - Pyqt5 / beautifulsoup
+* 스팀 트렌딩 게임 웹 크롤링 프로그램
+* 찾고 싶은 게임의 카테고리와 찾을 페이지 범위 설정 후 검색
+* 해당하는 페이지 범위에 대해 모든 게임을 찾고 , 해당 게임들중 5개의 게임을 랜덤으로 추천
+* 블로그에 5개씩 카테고리별 스팀 게임 추천글을 쓰고 있어 글쓰기 편하려고 만들었음
+
+---
